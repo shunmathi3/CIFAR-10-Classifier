@@ -9,7 +9,7 @@
 - Developed a training pipeline with live loss/accuracy tracking and model checkpoint saving.
 - Visualized training progress by plotting accuracy and loss per epoch.
 
-  ## ⚙️ How to Run
+  ## How to Run
 
 Download CIFAR-10 dataset:
 bash download_cifar.sh
